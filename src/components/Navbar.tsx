@@ -90,7 +90,7 @@ export default function Navbar() {
           <div className="flex justify-start">
             <button
               onClick={handleLogoClick}
-              className="text-2xl md:text-3xl lg:text-4xl font-athom bg-gradient-to-r from-[#a08323] via-[#ba6c28] to-[#b69c77] text-transparent bg-clip-text"
+              className="text-2xl cursor-pointer md:text-3xl lg:text-4xl font-athom bg-gradient-to-r from-[#a08323] via-[#ba6c28] to-[#b69c77] text-transparent bg-clip-text"
             >
               athom coffee
             </button>
@@ -167,7 +167,7 @@ export default function Navbar() {
             </li>
             <li className="pt-2 border-t border-[#5e3c2c]/20">
               <a
-                href="https://www.instagram.com/athomcoffee"
+                href="https://www.instagram.com/athomcafe/"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setMenuOpen(false)}

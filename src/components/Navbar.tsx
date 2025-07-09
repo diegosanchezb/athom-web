@@ -174,7 +174,6 @@ export default function Navbar() {
                 className="flex items-center gap-2"
               >
                 <AiFillInstagram className="w-5 h-5 text-[#5e3c2c]" />
-                Instagram
               </a>
             </li>
           </ul>

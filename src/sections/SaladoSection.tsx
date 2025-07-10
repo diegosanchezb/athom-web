@@ -36,11 +36,11 @@ export default function SaladoSection() {
           <div className="h-[1px] bg-[#5e3c2c] w-[70%] my-4 mx-auto" />
 
           <p className="text-xl sm:text-2xl text-[#5e3c2c] mb-1 leading-relaxed text-center">
-            focaccias, croissants rellenos, rolls de jamón y queso,
+            focaccias, croissants con jamon y queso, medialunas saladas
             <br />
-            sándwiches fríos y calientes, mini bagels, tostaditas con hummus,
+            tostados de pan de miga, bagels keto, avocado, waffle mediterraneo
             <br />
-            opciones veggie y sabores ideales para cualquier momento del día
+            scon de queso, cremona rellena, tostado de chipá, cibatta
           </p>
 
           <div className="h-[1px] bg-[#5e3c2c] w-[70%] my-4 mx-auto" />
